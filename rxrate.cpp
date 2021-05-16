@@ -1,3 +1,4 @@
+// compile with: g++ -O3 -static -o txrate txrate.cpp
 #include <unistd.h>
 #include <stdio.h>
 #include <sys/socket.h>
